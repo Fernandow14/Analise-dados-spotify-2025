@@ -154,6 +154,8 @@ Durante o projeto, foram praticados:
 - Visualização com Matplotlib.
 - Documentação e interpretação de resultados.
 
-## 👨‍💻 Autor
+## 👤 Autor
 
 **Fernando Dias**
+  
+LinkedIn: [Fernando Dias](https://www.linkedin.com/in/fernandodias-viana/)
